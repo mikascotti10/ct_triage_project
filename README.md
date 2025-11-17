@@ -7,7 +7,7 @@ The project is implemented in PyTorch and is designed to run both locally and in
 
 ---
 
-## 🔍 Main Features
+## Main Features
 
 - Supervised image classification on brain CT images.
 - Multiple backbones:
